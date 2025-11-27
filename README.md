@@ -8,6 +8,7 @@ responsivo, adaptando para telas de computadores e celulares, através do @media
 <br>
 -HTML
 -CSS
+<br>
 
 <img src="https://github.com/Leandro1372/easy-shopping-FIGMA/blob/master/assets/Captura%20de%20tela%202025-11-26%20214415.png?raw=true" />
 <img src="https://raw.githubusercontent.com/Leandro1372/easy-shopping-FIGMA/7938b8d88c3d9eeec37f844c7370e24f2067586b/assets/Captura%20de%20tela%202025-11-26%20214604.png" />
